@@ -4,7 +4,7 @@ import random
 
 # Deriv API Configuration
 API_URL = "https://api.deriv.com"
-API_TOKEN = "your_api_token_here"  # Replace with your Deriv API token
+API_TOKEN = "C4iurKmQqRXrTjJ"  # Replace with your Deriv API token
 ACCOUNT_TYPE = "virtual"  # Use "real" for real money account
 SYMBOL = "R_100"  # Example: Volatility 100 Index
 STAKE = 0.5  # Initial stake amount
